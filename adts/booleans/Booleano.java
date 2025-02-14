@@ -1,3 +1,5 @@
+package adts.booleans;
+
 public interface Booleano {
 
     public static final boolean Verdadero = true;
